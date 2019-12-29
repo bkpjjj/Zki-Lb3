@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="Crypt\Cezr.cs" />
     <Compile Include="Crypt\CezrAffin.cs" />
-    <Compile Include="Crypt\DES.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
